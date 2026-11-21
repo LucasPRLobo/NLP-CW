@@ -3,3 +3,14 @@ pandas
 numpy
 jupyter
 matplotlib
+torch
+transformers
+bitsandbytes
+accelerate
+datasets
+bm25s
+faiss-cpu
+sentence-transformers
+scikit-learn
+pyahocorasick
+python-dotenv

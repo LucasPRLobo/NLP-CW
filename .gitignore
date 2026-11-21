@@ -1,0 +1,13 @@
+# secrets
+.env
+# data, indices and model weights (too large for git; document downloads in README)
+data/
+indices/
+models/
+*.gguf
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# editor
+.vscode/
