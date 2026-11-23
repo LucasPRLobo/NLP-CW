@@ -1,0 +1,16 @@
+{
+  "train": {
+    "gold_titles": 180894,
+    "gold_titles_found": 180894,
+    "supporting_facts": 215684,
+    "supporting_facts_valid": 215662,
+    "questions_with_invalid_fact": 22
+  },
+  "validation": {
+    "gold_titles": 14810,
+    "gold_titles_found": 14810,
+    "supporting_facts": 18005,
+    "supporting_facts_valid": 18004,
+    "questions_with_invalid_fact": 1
+  }
+}
