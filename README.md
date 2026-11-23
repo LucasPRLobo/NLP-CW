@@ -84,6 +84,8 @@ literature_review/   reading notes (LaTeX) and bibliography
 reports/             literature review and novelty sweep reports
 research_notes/      per-topic research notes
 data/                datasets and processed files (local, git-ignored)
+results/             computed statistics and results (JSON)
+splits/              frozen train-question slices (IDs) + manifest
 requirements.txt     direct dependencies
 requirements.lock    exact versions used
 ```
