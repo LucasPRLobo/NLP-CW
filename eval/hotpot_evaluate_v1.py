@@ -1,5 +1,5 @@
 """
-Code aquired from https://github.com/hotpotqa/hotpot
+Official HotpotQA evaluation script, unmodified. Source: https://github.com/hotpotqa/hotpot/blob/master/hotpot_evaluate_v1.py (downloaded 2026-11-23)
 """
 
 import sys
