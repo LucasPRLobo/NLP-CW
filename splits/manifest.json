@@ -1,0 +1,25 @@
+{
+  "source": "hotpotqa/hotpot_qa distractor, train split",
+  "filter": "level == 'hard', excluding questions with invalid supporting facts",
+  "excluded_invalid_supporting_facts": 4,
+  "pool_size": 15657,
+  "seed": 27,
+  "counts": {
+    "pilot": {
+      "bridge": 160,
+      "comparison": 40
+    },
+    "tune": {
+      "bridge": 800,
+      "comparison": 200
+    },
+    "probe_train": {
+      "bridge": 8000,
+      "comparison": 2000
+    },
+    "reserve": {
+      "bridge": 3487,
+      "comparison": 970
+    }
+  }
+}
