@@ -1,0 +1,201 @@
+id,type,pred,gold,em,f1,precision,recall
+5abd94d55542992ac4f382d5,bridge,1985,Steve Jobs,0.0,0.0,0.0,0.0
+5a8afca455429971feec45ca,bridge,four tours,four,0.0,0.6666666666666666,0.5,1.0
+5a88a2045542997e5c09a64f,bridge,Honor the Past – Imagine the Future,Honor the Past – Imagine the Future,1.0,1.0,1.0,1.0
+5abab0b955429955dce3eece,bridge,The John Larroquette Show,"""The West Wing""",0.0,0.0,0.0,0.0
+5a8451b355429933447460d6,comparison,Aaron Lewis,Aaron Lewis,1.0,1.0,1.0,1.0
+5adc754255429947ff173976,bridge,No information available,"August 27, 1943.",0.0,0.0,0.0,0.0
+5a88f9d55542995153361218,comparison,"Sponge Cola formed in 1998, while Hurricane No. 1 formed in 1996",Hurricane #1,0.0,0.2857142857142857,0.16666666666666666,1.0
+5a85d36b5542994c784ddb84,bridge,Greg Hardy,Greg Hardy,1.0,1.0,1.0,1.0
+5abf9ad25542994516f454d4,bridge,Northern Ireland,Northern Ireland,1.0,1.0,1.0,1.0
+5addb5825542997545bbbdb5,comparison,no,no,1.0,1.0,1.0,1.0
+5a7cc7fb5542990527d55529,bridge,coast of Antrim,"618,000",0.0,0.0,0.0,0.0
+5ac3b44a554299741d48a2e7,comparison,no,no,1.0,1.0,1.0,1.0
+5ac020fa554299012d1db5b1,bridge,Buena Vista Distribution,Buena Vista Distribution,1.0,1.0,1.0,1.0
+5a7754e95542993569682d51,bridge,Baz Luhrmann's,"Nellee Hooper, Craig Armstrong and Marius de Vries.",0.0,0.0,0.0,0.0
+5a70ff855542994082a3e49f,bridge,The Nova Southeastern Sharks baseball program represents Nova Southeastern University in the National Collegiate Athletic Association's NCAA Division II level,Michael Bruce Fiers,0.0,0.0,0.0,0.0
+5a83f1b255429933447460c0,bridge,his birth,his birth,1.0,1.0,1.0,1.0
+5ae64f7b55429929b0807b2b,bridge,a leader of the Anglo-Saxon settlement of Britain,crowned,0.0,0.0,0.0,0.0
+5a82338f55429903bc27ba42,comparison,"film and television writer, director and producer, film director and screen writer",director,0.0,0.15384615384615385,0.08333333333333333,1.0
+5a8ce53c554299441c6b9f61,bridge,Leslie Norman,William Boyd,0.0,0.0,0.0,0.0
+5a86a7205542991e7718167a,bridge,Khold,Khold,1.0,1.0,1.0,1.0
+5a863eaf5542991e771815d6,bridge,Austrian economist Prof. Ludwig von Mises,praxeology,0.0,0.0,0.0,0.0
+5a88ff385542997e5c09a6ea,bridge,Blythe Danner,Sara Gilbert,0.0,0.0,0.0,0.0
+5add26c7554299473435387e,comparison,Canistrum,Canistrum,1.0,1.0,1.0,1.0
+5ac48c165542997ea680ca81,bridge,Andrew Lloyd Webber,Tim Rice,0.0,0.0,0.0,0.0
+5a7efe2555429930675135ee,bridge,Indiana Pacers,Chicago Bulls,0.0,0.0,0.0,0.0
+5ac3e2595542991943173890,bridge,Crime comedy,drama,0.0,0.0,0.0,0.0
+5a8bd23c554299240d9c20a1,bridge,no,5.5 million,0.0,0.0,0.0,0.0
+5a8f372855429924144829f2,bridge,2008 Sugar Bowl,2008 Sugar Bowl,1.0,1.0,1.0,1.0
+5ab8f15f5542991b5579f070,comparison,Paul Meany,Paul Meany,1.0,1.0,1.0,1.0
+5ac1b4e55542991316484b99,bridge,Rob Liefeld and writer Fabian Nicieza,Grant Morrison and Frank Quitely,0.0,0.1818181818181818,0.16666666666666666,0.2
+5ab6669555429954757d3286,comparison,Schweppes (paragraph 1),Schweppes,0.0,0.5,0.3333333333333333,1.0
+5aba5ae2554299232ef4a2aa,bridge,The 12th and 13th centuries,9th and 15th centuries,0.0,0.5,0.5,0.5
+5a8ddb5355429917b4a5bcd4,bridge,Cockburn Power Station,Cockburn Power Station (CKB),0.0,0.8571428571428571,1.0,0.75
+5ab7b85d55429928e1fe38a1,bridge,sketch comedy,sketch comedy,1.0,1.0,1.0,1.0
+5a75f6fb55429976ec32bcc7,bridge,Remember Ronald Ryan,Ronald Joseph Ryan,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666
+5abcfa3e554299114383a1a7,comparison,no,Me Naiset,0.0,0.0,0.0,0.0
+5a87641b5542996e4f3087c4,bridge,Ione Skye,Ione Skye,1.0,1.0,1.0,1.0
+5a86ef5f5542991e7718169b,bridge,100,200,0.0,0.0,0.0,0.0
+5ae3376555429928c4239689,bridge,Status Quo,Slade,0.0,0.0,0.0,0.0
+5a89c06e5542992e4fca83ba,comparison,"approximately 136,000 inhabitants, 1,169,000",Xiangcheng,0.0,0.0,0.0,0.0
+5a7be62955429907fabeef3e,bridge,Panem,Panem in North America,0.0,0.4,1.0,0.25
+5a8324d55542990548d0b187,bridge,DC Universe Animated Original Movies,DC,0.0,0.33333333333333337,0.2,1.0
+5a84b7e95542997b5ce3ff2b,bridge,no,Neil Abercrombie,0.0,0.0,0.0,0.0
+5ab28cb55542993be8fa9944,bridge,Professor Albus Dumbledore,the eponymous mystery writer protagonist,0.0,0.0,0.0,0.0
+5abe99eb5542993f32c2a180,comparison,In These Times,In These Times,1.0,1.0,1.0,1.0
+5abdb21255429965af743dd5,bridge,The Philadelphia crime family,Philadelphia Mafia,0.0,0.4,0.3333333333333333,0.5
+5ab3a3725542992ade7c6dfb,bridge,The French Connection (1971),William Friedkin,0.0,0.0,0.0,0.0
+5adcce135542990d50227d2f,comparison,no,no,1.0,1.0,1.0,1.0
+5abd01d25542992ac4f3819f,comparison,yes,yes,1.0,1.0,1.0,1.0
+5a8b44395542995d1e6f132f,bridge,mixed martial artist,mixed martial artist,1.0,1.0,1.0,1.0
+5a7d3d085542995f4f402244,bridge,John Morrissey,Dead Rabbits,0.0,0.0,0.0,0.0
+5abd1a6755429924427fcef6,bridge,Adelaide Raiders,Croatian Sports Centre,0.0,0.0,0.0,0.0
+5a790bb355429970f5fffe31,bridge,Old Norse,the Norse god of the ocean,0.0,0.3333333333333333,0.5,0.25
+5a8500ab5542997175ce1f55,bridge,Sidney Prescott,Neve Campbell,0.0,0.0,0.0,0.0
+5a7fba1b5542994857a767de,bridge,no,twenty,0.0,0.0,0.0,0.0
+5ac062b1554299294b218fb4,comparison,no,no,1.0,1.0,1.0,1.0
+5a80203d5542995d8a8ddf46,bridge,Westmalle,Westmalle Brewery,0.0,0.6666666666666666,1.0,0.5
+5ac0e459554299012d1db651,bridge,The Chris Isaak Show,"""Melrose Place""",0.0,0.0,0.0,0.0
+5ae7c4375542993210983f3e,bridge,First World War,First World War,1.0,1.0,1.0,1.0
+5a790f9555429970f5fffe42,bridge,1973–78,from 1973–78,0.0,0.6666666666666666,1.0,0.5
+5ae634c05542992ae0d16281,bridge,"Anne, Princess Royal","Anne, Princess Royal and Princess of Orange",0.0,0.6,1.0,0.42857142857142855
+5ab360c355429976abd1bca3,comparison,yes,yes,1.0,1.0,1.0,1.0
+5ac4ea9055429919431739f9,bridge,Toole,"5,324",0.0,0.0,0.0,0.0
+5ac2490155429951e9e68526,comparison,The Legend of Lobo,The Legend of Lobo,1.0,1.0,1.0,1.0
+5ae6e39e55429908198fa6d4,bridge,The Socialist International,Socialist International,1.0,1.0,1.0,1.0
+5a7101ff5542994082a3e4b0,comparison,Binghamton University,National University of Mongolia,0.0,0.3333333333333333,0.5,0.25
+5a867293554299211dda2b38,comparison,no,no,1.0,1.0,1.0,1.0
+5ab449a35542990594ba9bf5,comparison,tennis,tennis,1.0,1.0,1.0,1.0
+5ac514625542994611c8b371,bridge,Florence Foster Jenkins,Florence Foster Jenkins,1.0,1.0,1.0,1.0
+5ab3f7aa55429976abd1bd07,bridge,St. Jakob-Park,St. Jakob-Park,1.0,1.0,1.0,1.0
+5ab73fef5542992aa3b8c7f9,bridge,House of Anubis,House of Anubis,1.0,1.0,1.0,1.0
+5a7bdf67554299294a54ab3a,bridge,"American animated comedy series ""Bob's Burgers",Loren Bouchard,0.0,0.0,0.0,0.0
+5abb7d315542996cc5e4a003,bridge,"Hurricane Iniki, which caused billions of dollars of damage to the Hawaiian Islands",September 5,0.0,0.0,0.0,0.0
+5a8558ba5542997175ce1fb9,bridge,French 2CV technology,Citroën,0.0,0.0,0.0,0.0
+5adcc7335542990d50227d12,bridge,The federal courts do not have the supervisory power to require prosecutors to present exculpatory evidence to the grand jury,President Ronald Reagan,0.0,0.0,0.0,0.0
+5addad5c5542995b365fab5c,bridge,1991,1975,0.0,0.0,0.0,0.0
+5ab6edb1554299710c8d1fbf,bridge,2000 Summer Olympics in Sydney,"Sydney, New South Wales, Australia",0.0,0.20000000000000004,0.2,0.2
+5a7b41345542992d025e67c2,bridge,no,"39,558",0.0,0.0,0.0,0.0
+5a85eae75542996432c57124,bridge,"Dundalk, Ireland",Castletown,0.0,0.0,0.0,0.0
+5ab53fa5554299637185c538,bridge,an American defector to North Korea,United States Army soldier,0.0,0.0,0.0,0.0
+5ae493ed5542995dadf24349,bridge,an eastern suburb of Melbourne,6 km east,0.0,0.0,0.0,0.0
+5a8ce9cf55429941ae14df3f,bridge,wallboard,calcium sulfate dihydrate,0.0,0.0,0.0,0.0
+5a738e8f5542992d56e7e367,bridge,United States,United States,1.0,1.0,1.0,1.0
+5ae6881b5542991bbc97611a,bridge,human rationality,rationality prevailing in modern economic theory,0.0,0.25,0.5,0.16666666666666666
+5a89cbbc554299669944a5a8,comparison,yes,yes,1.0,1.0,1.0,1.0
+5a8a28e75542992d82986ed4,bridge,Peter Thiel,Peter Andreas Thiel,0.0,0.8,1.0,0.6666666666666666
+5a86473955429960ec39b65e,bridge,New York's 1st State Senate district,8th,0.0,0.0,0.0,0.0
+5abeda0e5542993fe9a41d55,bridge,heavy Conestoga wagon,Conestoga wagon,0.0,0.8,0.6666666666666666,1.0
+5ae7b2195542993210983ef9,bridge,Benjamin Hammond Haggerty,Benjamin Hammond Haggerty,1.0,1.0,1.0,1.0
+5abe45505542991f66106110,bridge,Near-future science fiction novels,fantasy,0.0,0.0,0.0,0.0
+5ab2c50855429916697740b1,bridge,thrash metal-oriented,"heavily downtuned, mid-paced",0.0,0.0,0.0,0.0
+5a8b1e2355429971feec4641,bridge,piano,the piano,1.0,1.0,1.0,1.0
+5a8d1fb6554299585d9e37ad,bridge,"science, technology and teaching","science, technology and teaching",1.0,1.0,1.0,1.0
+5ade212555429975fa854e8a,bridge,No information available,"4,296",0.0,0.0,0.0,0.0
+5a80dcad55429938b6142220,bridge,Charlie Puth,Paul Walker,0.0,0.0,0.0,0.0
+5a8cb4df554299653c1aa0ee,bridge,no,680 acre,0.0,0.0,0.0,0.0
+5ab266c2554299722f9b4d08,bridge,1934 British Empire Games in London,from 4–11 August 1934,0.0,0.2,0.16666666666666666,0.25
+5ac1118e554299294b219086,bridge,Charles Perrault and the Brothers Grimm,Joan Holub and Suzanne Williams,0.0,0.20000000000000004,0.2,0.2
+5ae52c2155429908b632653b,comparison,Reinhold Schünzel,Reinhold Schünzel,1.0,1.0,1.0,1.0
+5a7d7ec75542997cc2c47458,bridge,Canadian Prime Minister Justin Trudeau,Justin Trudeau,0.0,0.5714285714285715,0.4,1.0
+5a7778145542997042120a71,comparison,"October 9, 1888",Irving Camisky,0.0,0.0,0.0,0.0
+5ab26159554299340b5254a8,bridge,2.5 mi,535,0.0,0.0,0.0,0.0
+5a89c1765542993b751ca98b,bridge,Marcus Luttrell,Marcus Luttrell,1.0,1.0,1.0,1.0
+5aba2f025542994dbf0198bf,bridge,Torri in Sabina,Torri in Sabina,1.0,1.0,1.0,1.0
+5adea48d5542992fa25da7eb,bridge,Ty Dolla Sign,Ty Dolla Sign,1.0,1.0,1.0,1.0
+5adeb76a5542992fa25da81a,comparison,no,no,1.0,1.0,1.0,1.0
+5a74a75555429929fddd8492,bridge,"Burundi, Rwanda, Tanzania, Uganda, and Zambia",Burundi,0.0,0.2857142857142857,0.16666666666666666,1.0
+5a72f0ab5542994cef4bc413,bridge,Kurupt,Kurupt,1.0,1.0,1.0,1.0
+5ab29d02554299194fa9345b,comparison,59-story,MetLife Building,0.0,0.0,0.0,0.0
+5a74c7c455429916b0164216,bridge,no,20 April 2016,0.0,0.0,0.0,0.0
+5a7e78ca55429949594199ce,comparison,"Spanish breed of dog of the terrier type, sight hound type",dog,0.0,0.18181818181818182,0.1,1.0
+5ac11f47554299294b2190ae,bridge,Eric Dickerson,Eric Demetric Dickerson,0.0,0.8,1.0,0.6666666666666666
+5adceb815542994d58a2f716,bridge,Rome,"2,877,215",0.0,0.0,0.0,0.0
+5ade4d655542997c77adede0,bridge,1992,1992,1.0,1.0,1.0,1.0
+5ab9945755429970cfb8eb4e,comparison,board game,board game,1.0,1.0,1.0,1.0
+5ae36ecb5542991a06ce99c4,comparison,Hans Richter made nearly 30 films,Alain Tanner,0.0,0.0,0.0,0.0
+5a7fb5ef5542994857a767cb,bridge,"This is a discography of ""Götterdämmerung"", the fourth of the four operas that make up ""Der Ring des Nibelungen",the fourth,0.0,0.11764705882352941,0.0625,1.0
+5a75cc905542992db94736c5,bridge,Sharon den Adel and guitarist Robert Westerholt,Sharon den Adel and guitarist Robert Westerholt,1.0,1.0,1.0,1.0
+5a8a12895542992e4fca84f3,bridge,Big Mamma's Boy,Ned Kelly,0.0,0.0,0.0,0.0
+5a7b8a1d554299294a54a9e4,bridge,Commander-In-Chief,commander-in-chief,1.0,1.0,1.0,1.0
+5a77b7d25542992a6e59df97,bridge,Amy Lynn Carter,Amy Lynn Carter,1.0,1.0,1.0,1.0
+5adff47955429925eb1afb8f,comparison,no,no,1.0,1.0,1.0,1.0
+5abbe06c554299642a094b93,comparison,yes,yes,1.0,1.0,1.0,1.0
+5adf675d5542993344016c6f,bridge,Mullingar,Westmeath,0.0,0.0,0.0,0.0
+5add95f25542990dbb2f7e79,comparison,a small group of flowering plant species,genus,0.0,0.0,0.0,0.0
+5ac33f54554299741d48a23b,bridge,no,Panic of 1837,0.0,0.0,0.0,0.0
+5adcf21b5542992c1e3a24cb,bridge,No information is provided about Henry Dangar's participation in the European exploration of Australia,surveyor and explorer,0.0,0.0,0.0,0.0
+5ac1aa435542994ab5c67dc2,bridge,no,Two,0.0,0.0,0.0,0.0
+5a7a20345542996c55b2dd1c,bridge,no information,his fight promoter,0.0,0.0,0.0,0.0
+5ae1e4cf5542997f29b3c173,bridge,Gang of Youths,Gang of Youths,1.0,1.0,1.0,1.0
+5a8a78b555429970aeb702f7,bridge,Dreamliner,"""Triple Seven""",0.0,0.0,0.0,0.0
+5ae5d5865542993aec5ec1de,bridge,The Battle of Washita River,Lt. Col. George Armstrong Custer,0.0,0.0,0.0,0.0
+5add26e1554299473435387f,bridge,no information,"October 31, 1887",0.0,0.0,0.0,0.0
+5a8ef4bb5542995b44241f12,bridge,"explore themes of colonialism, democracy, nationalism, and life in Southern Africa",design their own interdisciplinary program,0.0,0.0,0.0,0.0
+5a7da7915542990b8f503a04,bridge,"December 28, 1969",1969,0.0,0.5,0.3333333333333333,1.0
+5ab6cc13554299710c8d1f66,comparison,Zvuki Mu,Zvuki Mu,1.0,1.0,1.0,1.0
+5ab4269b5542991751b4d6a1,bridge,The View,"""The View""",1.0,1.0,1.0,1.0
+5ab7f8905542991d322237ea,bridge,"on the edge of the Ko‘olau Range on the island of O‘ahu, Hawaiʻi, USA",Kaneohe,0.0,0.0,0.0,0.0
+5a7a32605542990198eaf0d4,bridge,1917,1917,1.0,1.0,1.0,1.0
+5ab873ac5542990e739ec901,comparison,Matty Mullins,Matty Mullins,1.0,1.0,1.0,1.0
+5ae2088a5542994d89d5b31b,bridge,Assata Shakur,Assata Shakur,1.0,1.0,1.0,1.0
+5a8adda055429950cd6afbbf,bridge,Helmuth Karl Bernhard von Moltke,Helmuth Karl Bernhard von Moltke,1.0,1.0,1.0,1.0
+5ae1180955429901ffe4ad7e,bridge,boat-manufacturing business,"American designer, builder and racer",0.0,0.0,0.0,0.0
+5a82cb0b55429954d2e2ebbd,bridge,"the ""Gaylord Method","""Gaylord Method""",1.0,1.0,1.0,1.0
+5a861c4e5542994775f606f8,bridge,sister,Carrie Kemper,0.0,0.0,0.0,0.0
+5a8eb14355429917b4a5bdb0,bridge,"Along with Michael Carrick, he is the only English player to win the Premier League, FA Cup, UEFA Champions League, League Cup, UEFA Europa League and",Michael Carrick,0.0,0.15384615384615385,0.08333333333333333,1.0
+5a7148fd5542994082a3e767,bridge,Grigoraș Dinicu,Grigoraș Dinicu,1.0,1.0,1.0,1.0
+5abaea185542996cc5e49f06,bridge,Shocker,Very Bad Things,0.0,0.0,0.0,0.0
+5ab3f62f5542992339550018,bridge,Democratic–Farmer–Labor,Minnesota Democratic–Farmer–Labor Party (DFL),0.0,0.4,1.0,0.25
+5a8ad4f15542995153361390,bridge,Sabinianus,Sabinianus,1.0,1.0,1.0,1.0
+5a7a52745542996c55b2dd4f,bridge,1587,Sir Francis Nethersole,0.0,0.0,0.0,0.0
+5a893a6855429951533612ec,bridge,Monterrey,"Monterrey, Nuevo León",0.0,0.5,1.0,0.3333333333333333
+5a8721865542991e771816db,bridge,"Lexington, Kentucky",Lexington,0.0,0.6666666666666666,0.5,1.0
+5abaff035542992ccd8e7e9d,bridge,"18,856","18,856",1.0,1.0,1.0,1.0
+5a77cabe5542995d831812da,comparison,"Janet Patricia Gardner (born March 17, 1962)",Janet Patricia Gardner,0.0,0.6,0.42857142857142855,1.0
+5ab94811554299743d22eab8,bridge,no,mentored,0.0,0.0,0.0,0.0
+5ae787e3554299540e5a55dc,bridge,Merrick,Blackwood Farm,0.0,0.0,0.0,0.0
+5ae2e68e55429928c4239541,bridge,No information available,"March 31, 2011",0.0,0.0,0.0,0.0
+5ab77b455542995dae37e934,bridge,22,three Grammy Awards,0.0,0.0,0.0,0.0
+5a80493b5542992bc0c4a6d9,bridge,alt-metal,Spiritism,0.0,0.0,0.0,0.0
+5a74756155429929fddd8435,comparison,1956,1956,1.0,1.0,1.0,1.0
+5adfee0455429942ec259b97,bridge,data mining and data analysis with strategic communication,data mining and data analysis with strategic communication,1.0,1.0,1.0,1.0
+5a78cd7455429974737f78a4,bridge,To Catch a Thief,French Riviera,0.0,0.0,0.0,0.0
+5ab844ce5542990e739ec8a8,comparison,"Ted Sharks is known for writing and directing ""Hard to Say"", ""Save the Underprivileged"" and ""An Ideal Marriage""",Ted Sharks,0.0,0.2222222222222222,0.125,1.0
+5ae52fd255429908b6326559,bridge,no,Rajkumar Hirani,0.0,0.0,0.0,0.0
+5ade26a75542997c77aded76,bridge,Scorpius,identified by the Greek astronomer Ptolemy,0.0,0.0,0.0,0.0
+5ac0d37f554299012d1db63b,bridge,No information available,Clifton Webb,0.0,0.0,0.0,0.0
+5ac46285554299204fd21f3a,bridge,xx,laptop,0.0,0.0,0.0,0.0
+5ae1b398554299492dc91b71,bridge,Trey Parker and Matt Stone,Trey Parker and Matt Stone,1.0,1.0,1.0,1.0
+5a81dde55542990a1d231ee5,bridge,Arsenal,London,0.0,0.0,0.0,0.0
+5a7f3d8f55429930675136cd,bridge,Disney's Hollywood Studios at Walt Disney World Resort,Disney's Hollywood Studios,0.0,0.5454545454545454,0.375,1.0
+5ae5d54f5542996de7b71a2b,bridge,Magic Kingdom theme park of Walt Disney World,Magic Kingdom,0.0,0.4,0.25,1.0
+5a8042d3554299485f5985a7,bridge,David Gelb,David Gelb,1.0,1.0,1.0,1.0
+5ae73dde5542991e8301cc32,bridge,Kiowa novelist,Kiowa,0.0,0.6666666666666666,0.5,1.0
+5abdb02255429965af743dc0,bridge,Athens,Clarke,0.0,0.0,0.0,0.0
+5ab2ad1155429929539467d6,bridge,The Republic of India since independence,Republic of India,0.0,0.7499999999999999,0.6,1.0
+5ae1cd5f5542997f29b3c110,bridge,Hacksaw Ridge,Mel Gibson,0.0,0.0,0.0,0.0
+5a8e0af25542995085b373aa,bridge,Ash Williams,"Ashley James ""Ash"" Williams",0.0,0.6666666666666666,1.0,0.5
+5a8523285542994c784ddb09,bridge,Simpsons Roasting on an Open Fire,Simpsons Roasting on an Open Fire,1.0,1.0,1.0,1.0
+5a87ab255542994846c1cdc1,bridge,"the ""Infinity Patrol",Infinity Patrol,1.0,1.0,1.0,1.0
+5ab93494554299753720f798,bridge,Sanford Meisner,Sanford Meisner,1.0,1.0,1.0,1.0
+5add322d5542992ae4cec4e8,bridge,44 BC,1599,0.0,0.0,0.0,0.0
+5a8f940d5542992414482b06,comparison,no,no,1.0,1.0,1.0,1.0
+5ae6a6395542996d980e7c6b,bridge,no,Michelle Pfeiffer,0.0,0.0,0.0,0.0
+5a7388d0554299623ed4abdf,comparison,"Gatti's Pizza, founded in 1964",Gatti's Pizza,0.0,0.5714285714285715,0.4,1.0
+5ae682505542995703ce8b6e,bridge,the River Forth,River Forth,1.0,1.0,1.0,1.0
+5ae1cf635542997f29b3c129,comparison,Grover Jones,Jeffery James Tremaine,0.0,0.0,0.0,0.0
+5a85b2365542997b5ce40027,comparison,"Shinnecock Canal is 4700 ft long, while Warren County Canal is 20 mi long",Warren County Canal,0.0,0.35294117647058826,0.21428571428571427,1.0
+5a882fd85542994846c1ce0c,bridge,"Englewood, New Jersey","Bergen County, New Jersey",0.0,0.5714285714285715,0.6666666666666666,0.5
+5adf161a5542995ec70e8f67,bridge,Bardstown has been the site of bourbon distilleries since 1776,"11,700",0.0,0.0,0.0,0.0
+5a7da95f5542990b8f503a14,bridge,The Walt Disney Company,NBC's Discovery Kids,0.0,0.0,0.0,0.0
+5ae0ba645542993d6555ec24,bridge,Unapologetic,"""Loud"" (2010)",0.0,0.0,0.0,0.0
+5a77733c55429972597f1542,bridge,Nick Leeson,Nick Leeson,1.0,1.0,1.0,1.0
+5a8a097055429970aeb7022e,bridge,Monroe County,Monroe County,1.0,1.0,1.0,1.0
+5a76db9355429972597f13e8,bridge,Legends of the Hidden Temple,Legends of the Hidden Temple,1.0,1.0,1.0,1.0
+5adf33305542995ec70e8f8d,bridge,Electromagnetic Aircraft Launch System,Electromagnetic Aircraft Launch System,1.0,1.0,1.0,1.0
+5aba9459554299232ef4a340,bridge,Maryland,"University of Maryland, College Park",0.0,0.33333333333333337,1.0,0.2
+5ab1f1375542993be8fa988d,bridge,Kalaripayattu,Kalaripayattu,1.0,1.0,1.0,1.0
+5a90c68e5542995651fb51e7,comparison,"drummer, co-lead singer, singer-songwriter, producer","singer-songwriter, producer, and drummer",0.0,0.6666666666666665,0.6,0.75
+5ae645d25542992663a4f280,bridge,Mekhi Phifer and Josh Hartnett,Mekhi Phifer and Josh Hartnett,1.0,1.0,1.0,1.0

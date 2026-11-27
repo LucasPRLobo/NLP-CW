@@ -1,0 +1,15 @@
+{
+  "run_id": "20261126_pilot_distractor_v1",
+  "slice": "pilot",
+  "n": 200,
+  "setting": "distractor",
+  "top_k": null,
+  "model": "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+  "revision": "f15c379fb32bb402fa06a7ae9aecb1febf4b79ec",
+  "prompt_version": "v1",
+  "prompt_sha1": "f685fc610bad",
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 32
+  }
+}
