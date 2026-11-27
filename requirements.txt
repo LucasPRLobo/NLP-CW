@@ -16,3 +16,4 @@ pyahocorasick
 python-dotenv
 ujson
 pystemmer
+pyyaml

@@ -1,0 +1,17 @@
+version: v1
+description: Zero-shot, short-answer instruction; numbered paragraphs, then the question.
+parent: null
+
+system_with_context: |-
+  You answer questions using the paragraphs provided. Reply with only the answer: a short phrase, copied from the paragraphs where possible, with no explanation and no full sentence. If the question is a yes/no question, reply with exactly yes or no.
+
+system_closed_book: |-
+  You answer questions from your own knowledge. Reply with only the answer: a short phrase, with no explanation and no full sentence. If the question is a yes/no question, reply with exactly yes or no.
+
+paragraph_template: "[{i}] {title}\n{text}"
+user_template: "Paragraphs:\n\n{context}\n\nQuestion: {question}"
+user_template_closed_book: "Question: {question}"
+
+# Worked examples shown before the real question: list of {question, paragraphs: [{title, text}], answer}.
+# Must come from train questions outside every slice in splits/.
+few_shot: []
